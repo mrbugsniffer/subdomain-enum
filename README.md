@@ -1,1 +1,1 @@
-# subdomain-enumeration-web
+Subdomain-enum is a tool used for subdomain enumeration, which is the process of discovering subdomains associated with a target domain. It helps security professionals and researchers identify additional subdomains (e.g., blog.example.com, shop.example.com) that may not be publicly visible but could be vulnerable to attacks. Subdomain-enum leverages various techniques, such as DNS queries, brute-forcing, and public databases, to find these subdomains, assisting in tasks like vulnerability assessments and security audits.
